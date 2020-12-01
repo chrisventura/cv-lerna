@@ -8,6 +8,11 @@
       "message": "chore: bump packages",
       "changelog": "false",
       "conventionalCommits": true 
+    },
+    "publish": {
+      "message": "chore: bump and publish packages",
+      "changelog": "false",
+      "conventionalCommits": true 
     }
   }
 }
