@@ -1,7 +1,7 @@
 # Change Log
 
 All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines. Alter changelog
 
 # [1.3.0](https://github.com/chrisventura/cv-lerna/compare/@cv/test-package@1.2.0...@cv/test-package@1.3.0) (2020-12-01)
 
