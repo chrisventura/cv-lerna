@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@cv/test-package-2": "^3.1.0",
-    "moment": "^2.29.1"
+    "@cv/test-package-2": "^3.1.0"
   }
 }
