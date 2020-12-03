@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.0.0](https://github.com/chrisventura/cv-lerna/compare/@cv/test-package@2.0.3...@cv/test-package@3.0.0) (2020-12-03)
+
+
+### Features
+
+* big ol changes ([a48efc2](https://github.com/chrisventura/cv-lerna/commit/a48efc2e9e8992e2f1cc64f05b9b3b4076852f0e))
+
+
+### BREAKING CHANGES
+
+* this is a big ol breaking change
+
+
+
+
+
 ## [2.0.3](https://github.com/chrisventura/cv-lerna/compare/@cv/test-package@2.0.2...@cv/test-package@2.0.3) (2020-12-03)
 
 
