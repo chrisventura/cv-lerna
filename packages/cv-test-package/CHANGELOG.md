@@ -1,3 +1,22 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# [2.0.0](https://github.com/chrisventura/cv-lerna/compare/@cv/test-package@1.3.3...@cv/test-package@2.0.0) (2020-12-03)
+
+
+* feat!: remove moment dependency ([ab42dbf](https://github.com/chrisventura/cv-lerna/commit/ab42dbfe0e98b38b6af6040d65a151b59895e76f))
+
+
+### BREAKING CHANGES
+
+* moment is no longer included in this
+
+
+
+
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
