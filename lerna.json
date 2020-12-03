@@ -6,13 +6,12 @@
   "command": {
     "version": {
       "message": "chore: bump packages",
-      "changelog": false,
       "conventionalCommits": true 
     },
     "publish": {
       "message": "chore: bump and publish packages",
-      "changelog": false,
-      "conventionalCommits": true 
+      "conventionalCommits": true,
+      "registry": "https://pkgs.dev.azure.com/iqmetrix/_packaging/iqmetrix/npm/registry/"
     }
   }
 }
