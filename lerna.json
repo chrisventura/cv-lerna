@@ -13,5 +13,6 @@
       "conventionalCommits": true,
       "registry": "https://pkgs.dev.azure.com/iqmetrix/_packaging/iqmetrix/npm/registry/"
     }
-  }
+  },
+  "changelogPreset": "conventionalcommits"
 }
