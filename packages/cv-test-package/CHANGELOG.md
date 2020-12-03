@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [5.1.1](https://github.com/chrisventura/cv-lerna/compare/@cv/test-package@5.1.0...@cv/test-package@5.1.1) (2020-12-03)
+
+
+### Bug Fixes
+
+* small fix is small ([9871ea2](https://github.com/chrisventura/cv-lerna/commit/9871ea263405830fe6d2621c688fda80aabe8737))
+
+
+
 ## [5.1.0](https://github.com/chrisventura/cv-lerna/compare/@cv/test-package@5.0.0...@cv/test-package@5.1.0) (2020-12-03)
 
 
