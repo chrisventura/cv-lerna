@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.2](https://github.com/chrisventura/cv-lerna/compare/@cv/test-package@2.0.1...@cv/test-package@2.0.2) (2020-12-03)
+
+**Note:** Version bump only for package @cv/test-package
+
+
+
+
+
+
 ## [6.0.0] - 11/23/2020
 
 ### Changed
