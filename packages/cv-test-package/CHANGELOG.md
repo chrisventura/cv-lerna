@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.0](https://github.com/chrisventura/cv-lerna/compare/@cv/test-package@4.0.0...@cv/test-package@5.0.0) (2020-12-03)
+
+
+### ⚠ BREAKING CHANGES
+
+* secret breaking
+
+### Bug Fixes
+
+* secret breaking ([014634a](https://github.com/chrisventura/cv-lerna/commit/014634a507434924b255aaf49c0ecb276b8f430f))
+
+
+
 ## [4.0.0](https://github.com/chrisventura/cv-lerna/compare/@cv/test-package@3.0.0...@cv/test-package@4.0.0) (2020-12-03)
 
 
