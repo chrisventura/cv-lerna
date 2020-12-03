@@ -3,5 +3,8 @@
   "private": true,
   "devDependencies": {
     "lerna": "^3.22.1"
+  },
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.5.0"
   }
 }
