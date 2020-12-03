@@ -14,8 +14,5 @@
       "registry": "https://pkgs.dev.azure.com/iqmetrix/_packaging/iqmetrix/npm/registry/"
     }
   },
-    "changelogPreset": {
-      "name": "conventionalcommits",
-      "issueUrlFormat": "{{host}}/{{owner}}/{{repository}}/issues/{{id}}"
-    }
+  "changelogPreset": "conventionalcommits"
 }
